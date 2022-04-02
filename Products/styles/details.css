@@ -39,7 +39,8 @@ body {
     background-color:#f43397;  
     color: aliceblue; 
     font-weight: 700;  
-    font-size: 16px;  
+    font-size: 16px;
+    cursor: pointer;  
 }
 
 #container > #info {
@@ -87,6 +88,7 @@ h3 {
     border-radius: 56px; 
     color:#f43397;
     background-color: #fde9f2;
+    cursor: pointer;
 }
 
 #info > #pDetails {
@@ -113,4 +115,6 @@ h3 {
     border-radius: 5px;
     margin-bottom: 20px;
 }
+
+
 
