@@ -15,13 +15,17 @@
 
 # Contributors 4
 1. @prakash817
+   <br/>
    prakash817 Prakash Gupta
 
 2. @deshmukh612
+   <br/>
    deshmukh612 Priya Deshmukh
 
 3. @Mohd2002Monish
-   Mohd2002Monish Mohd Monish
+   <br/>
+   Mohd Monish
 
 4. @gzbsingh
+  <br/>
   gzbsingh
