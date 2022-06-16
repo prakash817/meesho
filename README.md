@@ -13,7 +13,7 @@
 2. <h2> npm install </h2>
 3. <h2> npm start  </h2>
 
-# Contributors 4
+# Contributors 
 1. @prakash817
    <br/>
    prakash817 Prakash Gupta
